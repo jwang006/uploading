@@ -1,11 +1,11 @@
 
 /*This is a comment in CSS*/
 
-/* body{
+body{
     font-family: Verdana, sans-serif;
-    margin: 200;
-} */
-
+    margin: 400;
+    background-color: rgb(204, 255, 221);
+  }
 header{
     padding:0 3%;
 }
